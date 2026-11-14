@@ -2,6 +2,8 @@
 
 > **ATTENTION:** This config is designed specifically for **Fedora Workstation 41**, as it uses the default Fedora 41 wallpaper path (`/usr/share/backgrounds/f41/default/f41-01-night.png`).
 
+![Desktop Screenshot](anexample.png)
+
 ## Getting Ready
 
 You need:
