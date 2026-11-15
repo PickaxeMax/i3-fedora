@@ -26,7 +26,7 @@ You need:
    sudo dnf install rofi kitty thunar flameshot picom feh
    ```
 4. Download the config files and copy them into your `~/.config/` directory (don't forget to make `~/.config/i3/scripts/powermenu.sh` executable with `chmod +x`).
-5. Log out, select **i3** on the login screen, and you are done!
+5. Log out (or type i3-msg restart), select **i3** on the login screen, and you are done!
 
 ## Keybindings
 
